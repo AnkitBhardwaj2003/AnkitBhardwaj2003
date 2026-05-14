@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi 👋 I'm Ankit Bhardwaj
 
-<!--
-**AnkitBhardwaj2003/AnkitBhardwaj2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer & Web Design Learner
 
-Here are some ideas to get you started:
+🚀 Building modern websites using HTML, CSS and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Open to Freelancing • 🚀 Creative Web Projects • 🎨 Frontend UI Design
+
+---
+
+🚀 Tech Stack
+
+Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+Tools
+- GitHub
+- VS Code
+
+---
+
+📌 Featured Projects
+
+🌍 Travel Website  
+Responsive travel website built using HTML and CSS.
+
+Tech: HTML • CSS
+
+---
+
+✋ Hand Tracking UI  
+Frontend hand tracking project created using HTML and CSS.
+
+Tech: HTML • CSS
+
+---
+
+📫 Connect With Me
+
+📧 Email: ankitbharadwaj221@gmail.com
+
+💻 GitHub: https://github.com/AnkitBhardwaj2003
