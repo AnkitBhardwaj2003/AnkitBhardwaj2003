@@ -1,10 +1,12 @@
 # Hi 👋 I'm Ankit Bhardwaj
 
-### 💻 Frontend Developer • Web Design Learner • Creative UI Builder
+### 💻 Frontend Developer • Future Full Stack Developer • Creative UI Builder
 
-I build modern and responsive websites using HTML, CSS, and JavaScript while improving my frontend development skills through real-world projects.
+I build modern and responsive websites using HTML, CSS, and JavaScript while continuously improving my frontend development skills through real-world projects.
 
-Passionate about creating clean UI designs, animated websites, and interactive user experiences.
+Currently focused on frontend development and modern UI design, while preparing to start backend development and become a Full Stack Developer.
+
+Passionate about creating clean interfaces, interactive user experiences, and professional web projects.
 
 ---
 
@@ -15,6 +17,7 @@ Passionate about creating clean UI designs, animated websites, and interactive u
 * 🌍 Building Responsive Websites
 * ⚡ Exploring Creative Web Animations
 * 📚 Currently Learning Advanced JavaScript
+* 🔥 Preparing to Learn Backend Development
 
 💼 Open to Freelance Projects, Frontend Collaborations, and Internship Opportunities.
 
@@ -27,6 +30,20 @@ Passionate about creating clean UI designs, animated websites, and interactive u
 * HTML5
 * CSS3
 * JavaScript
+
+### Currently Learning
+
+* Advanced JavaScript
+* Responsive Web Design
+* Frontend Project Development
+
+### Future Learning Goals
+
+* Node.js
+* Express.js
+* MongoDB
+* React.js
+* Full Stack Development
 
 ### Tools
 
@@ -74,7 +91,8 @@ Professional property dealer website with modern responsive design.
 
 HTML • CSS
 
-🔗 Live Demo:https://ankitbhardwaj2003.github.io/Real-estate-website/
+🔗 Live Demo:
+https://ankitbhardwaj2003.github.io/Real-estate-website/
 
 ---
 
@@ -86,7 +104,8 @@ A futuristic frontend UI inspired by modern hand-tracking dashboard designs.
 
 HTML • CSS
 
-🔗 Live Demo:https://ankitbhardwaj2003.github.io/Hand-Tracking/
+🔗 Live Demo:
+https://ankitbhardwaj2003.github.io/Hand-Tracking/
 
 ---
 
@@ -97,6 +116,7 @@ HTML • CSS
 * Learn Backend Development
 * Create Freelance Projects
 * Master JavaScript & React
+* Build Real-World Applications
 
 ---
 
@@ -110,4 +130,4 @@ https://github.com/AnkitBhardwaj2003
 
 ---
 
-⭐ Consistency and projects build real skills.
+⭐ Consistency, practice, and real projects build real skills.
