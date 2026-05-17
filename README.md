@@ -2,13 +2,13 @@
 
 ### Frontend Developer • Web Design Learner • Creative UI Builder
 
-I build modern and responsive websites using HTML, CSS, and JavaScript while continuously improving my frontend development skills through real-world projects.
+I build modern and responsive websites using HTML, CSS, and JavaScript while improving my frontend development skills through real-world projects.
 
 Passionate about creating clean UI designs, animated websites, and interactive user experiences.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 * 💻 Frontend Web Developer
 * 🎨 Focused on Modern UI/UX Design
@@ -16,9 +16,11 @@ Passionate about creating clean UI designs, animated websites, and interactive u
 * ⚡ Exploring Creative Web Animations
 * 📚 Currently Learning Advanced JavaScript
 
+💼 Open to Freelance Projects, Frontend Collaborations, and Internship Opportunities.
+
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -46,7 +48,9 @@ A modern animated travel website with:
 * Music system
 * Responsive design
 
-**Tech Used:** HTML • CSS • JavaScript
+### Tech Used
+
+HTML • CSS • JavaScript
 
 ---
 
@@ -54,7 +58,9 @@ A modern animated travel website with:
 
 A clean and responsive travel website built using frontend technologies with modern layouts and destination sections.
 
-**Tech Used:** HTML • CSS
+### Tech Used
+
+HTML • CSS
 
 ---
 
@@ -62,19 +68,23 @@ A clean and responsive travel website built using frontend technologies with mod
 
 A futuristic frontend UI inspired by modern hand tracking systems and sci-fi dashboard designs.
 
-**Tech Used:** HTML • CSS
+### Tech Used
+
+HTML • CSS
 
 ---
 
 ## 🏢 Real Estate Website
 
-A professional real estate website showcasing property listings with responsive layout and modern design.
+A professional real estate website showcasing property listings with responsive layout and modern UI design.
 
-**Tech Used:** HTML • CSS
+### Tech Used
+
+HTML • CSS
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 * Become a Full Stack Developer
 * Build Professional Web Projects
@@ -84,7 +94,7 @@ A professional real estate website showcasing property listings with responsive 
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 📧 Email: [ankitbharadwaj221@gmail.com](mailto:ankitbharadwaj221@gmail.com)
 
