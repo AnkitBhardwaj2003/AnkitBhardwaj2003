@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ankit Bhardwaj
 
-### Frontend Developer • Web Design Learner • Creative UI Builder
+### 💻 Frontend Developer • Web Design Learner • Creative UI Builder
 
 I build modern and responsive websites using HTML, CSS, and JavaScript while improving my frontend development skills through real-world projects.
 
@@ -42,21 +42,30 @@ Passionate about creating clean UI designs, animated websites, and interactive u
 A modern animated travel website with:
 
 * Background video
-* Search system
-* Popup country details
-* Booking section
 * Music system
-* Responsive design
+* Country search
+* Interactive popup details
+* Booking section
+* Responsive UI
+
+🔗 Live Demo:
+https://ankitbhardwaj2003.github.io/Travel-3D/
+
+---
+
+## 🏢 Real Estate Website
+
+Professional property dealer website with modern responsive design.
 
 ### Tech Used
 
-HTML • CSS • JavaScript
+HTML • CSS
 
 ---
 
 ## ✈️ Travel Website
 
-A clean and responsive travel website built using frontend technologies with modern layouts and destination sections.
+Responsive frontend travel website built using HTML and CSS.
 
 ### Tech Used
 
@@ -66,17 +75,7 @@ HTML • CSS
 
 ## ✋ Hand Tracking UI
 
-A futuristic frontend UI inspired by modern hand tracking systems and sci-fi dashboard designs.
-
-### Tech Used
-
-HTML • CSS
-
----
-
-## 🏢 Real Estate Website
-
-A professional real estate website showcasing property listings with responsive layout and modern UI design.
+A futuristic frontend UI inspired by modern hand-tracking dashboard designs.
 
 ### Tech Used
 
@@ -96,10 +95,11 @@ HTML • CSS
 
 # 📫 Connect With Me
 
-📧 Email: [ankitbharadwaj221@gmail.com](mailto:ankitbharadwaj221@gmail.com)
+📧 Email:
+[ankitbharadwaj221@gmail.com](mailto:ankitbharadwaj221@gmail.com)
 
 💻 GitHub:
-[AnkitBhardwaj2003 GitHub](https://github.com/AnkitBhardwaj2003?utm_source=chatgpt.com)
+https://github.com/AnkitBhardwaj2003
 
 ---
 
