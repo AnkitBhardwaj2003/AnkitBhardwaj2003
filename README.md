@@ -74,7 +74,7 @@ Professional property dealer website with modern responsive design.
 
 HTML • CSS
 
-🔗 Live Demo:
+🔗 Live Demo:https://ankitbhardwaj2003.github.io/Real-estate-website/
 
 ---
 
@@ -86,7 +86,7 @@ A futuristic frontend UI inspired by modern hand-tracking dashboard designs.
 
 HTML • CSS
 
-🔗 Live Demo:
+🔗 Live Demo:https://ankitbhardwaj2003.github.io/Hand-Tracking/
 
 ---
 
