@@ -54,7 +54,7 @@ Passionate about creating clean interfaces, interactive user experiences, and pr
 
 # 📌 Featured Projects
 
-## 🌍 Travel India 3D Website
+## 🌍 Travel World
 
 A modern animated travel website with:
 
