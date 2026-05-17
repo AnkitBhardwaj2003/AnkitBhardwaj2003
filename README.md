@@ -53,6 +53,19 @@ https://ankitbhardwaj2003.github.io/Travel-3D/
 
 ---
 
+## 🚗 Velocity X Garage
+
+A modern racing-inspired car showcase website featuring Supercars, SUVs, and Sedans with interactive car details and responsive design.
+
+### Tech Used
+
+HTML • CSS • JavaScript
+
+🔗 Live Demo:
+https://ankitbhardwaj2003.github.io/Showroom/
+
+---
+
 ## 🏢 Real Estate Website
 
 Professional property dealer website with modern responsive design.
@@ -61,15 +74,7 @@ Professional property dealer website with modern responsive design.
 
 HTML • CSS
 
----
-
-## ✈️ Travel Website
-
-Responsive frontend travel website built using HTML and CSS.
-
-### Tech Used
-
-HTML • CSS
+🔗 Live Demo:
 
 ---
 
@@ -80,6 +85,8 @@ A futuristic frontend UI inspired by modern hand-tracking dashboard designs.
 ### Tech Used
 
 HTML • CSS
+
+🔗 Live Demo:
 
 ---
 
