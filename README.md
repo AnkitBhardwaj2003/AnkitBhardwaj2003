@@ -49,10 +49,24 @@ Passionate about creating clean interfaces, interactive user experiences, and pr
 
 * GitHub
 * VS Code
+* GitHub Pages
 
 ---
 
 # 📌 Featured Projects
+
+## 🚀 Advanced Animated Calculator
+
+A modern futuristic calculator website with animated UI, scientific functions, keyboard support, dark/light mode, sound effects, and glassmorphism design.
+
+### Tech Used
+
+HTML • CSS • JavaScript
+
+🔗 Live Demo:  
+https://ankitbhardwaj2003.github.io/Calculator/
+
+---
 
 ## 🌍 Travel World
 
@@ -65,7 +79,7 @@ A modern animated travel website with:
 * Booking section
 * Responsive UI
 
-🔗 Live Demo:
+🔗 Live Demo:  
 https://ankitbhardwaj2003.github.io/Travel-3D/
 
 ---
@@ -78,7 +92,7 @@ A modern racing-inspired car showcase website featuring Supercars, SUVs, and Sed
 
 HTML • CSS • JavaScript
 
-🔗 Live Demo:
+🔗 Live Demo:  
 https://ankitbhardwaj2003.github.io/Showroom/
 
 ---
@@ -91,7 +105,7 @@ Professional property dealer website with modern responsive design.
 
 HTML • CSS
 
-🔗 Live Demo:
+🔗 Live Demo:  
 https://ankitbhardwaj2003.github.io/Real-estate-website/
 
 ---
@@ -104,7 +118,7 @@ A futuristic frontend UI inspired by modern hand-tracking dashboard designs.
 
 HTML • CSS
 
-🔗 Live Demo:
+🔗 Live Demo:  
 https://ankitbhardwaj2003.github.io/Hand-Tracking/
 
 ---
@@ -120,12 +134,21 @@ https://ankitbhardwaj2003.github.io/Hand-Tracking/
 
 ---
 
+# 📈 Current Focus
+
+* Improving JavaScript Skills
+* Building Advanced Frontend Projects
+* Learning Modern UI/UX Design
+* Creating More Interactive Websites
+
+---
+
 # 📫 Connect With Me
 
-📧 Email:
-[ankitbharadwaj221@gmail.com](mailto:ankitbharadwaj221@gmail.com)
+📧 Email:  
+ankitbharadwaj221@gmail.com
 
-💻 GitHub:
+💻 GitHub:  
 https://github.com/AnkitBhardwaj2003
 
 ---
